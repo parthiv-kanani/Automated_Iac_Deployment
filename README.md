@@ -1,2 +1,2 @@
-# Python based REST API application# Automated-Infrastructure-Deployment
-# Automated-Infrastructure-Deployment
+# Automated Infrastructure Deployment
+# Contains all terraform files to build an AWS Infrastrustucture, and launching a python based REST API application on the cloud availabe to access from the internet
